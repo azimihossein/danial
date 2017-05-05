@@ -86,12 +86,16 @@ TABLE OF CONTENTS:
 /* -----------------------------------------------------------------------------------
 01 FONTS
 ----------------------------------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700);
+/*@import url(https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700);*/
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700);*/
 
 /* -----------------------------------------------------------------------------------
 02 COMMON STYLES
 ----------------------------------------------------------------------------------- */
+@font-face {
+    font-family: 'farsiFont';
+    src: url('../fonts/BMitra.ttf') format('ttf');
+}
 
 html {
     overflow-y: scroll;
@@ -1712,8 +1716,9 @@ html.mm-blocking {
 
 .section-title,
 .section-title-center {
+    direction: rtl;
     font-family: 'Calibri Light';
-    font-size: 24px;
+    font-size: 30px;
     line-height: 1.2;
     padding-left: 60px;
     margin-top: 0;
@@ -2314,7 +2319,7 @@ html.mm-blocking {
 }
 
 .breadcrumbs {
-    font-size: 11px;
+    /*font-size: 11px;*/
     line-height: 1.7;
     font-weight: 400;
     letter-spacing: .05em;
