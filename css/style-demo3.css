@@ -306,7 +306,7 @@ a.link {
 ----------------------------------------------------------------------------------- */
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 14px;
     line-height: 1.7;
     font-weight: 400;
@@ -317,13 +317,13 @@ p {margin: 0 0 1.4em;}
     font-size: 16px;
     letter-spacing: .05em;
 }
-.font-alt {font-family: 'Playfair Display', sans-serif;}
+.font-alt {font-family: 'Calibri Light', sans-serif;}
 .uppercase {text-transform: uppercase;}
 .letterspacing {letter-spacing: .4em}
 
 /* Heading */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-weight: 400;
     line-height: 1.2;
     margin-top: 2em;
@@ -381,7 +381,7 @@ blockquote .small {
 
 /* Lead Body Copy */
 .lead {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 16px;
     line-height: 2;
     font-weight: 400;
@@ -456,7 +456,7 @@ ul.tick li:before {
 
 /* Title */
 .title {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-weight: 400;
     line-height: 1.2; 
 }
@@ -1211,7 +1211,7 @@ html.mm-blocking {
 }
 .section-title,
 .section-title-center {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 24px;
     line-height: 1.2;
     padding-left: 60px;
@@ -1262,7 +1262,7 @@ html.mm-blocking {
 }
 .section-more {
     float: right;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     margin-top: 6px;
     color: #737d80;
     font-size: 12px;
@@ -1282,7 +1282,7 @@ html.mm-blocking {
     color: inherit;
 }
 .section-subtitle {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 12px;
     line-height: 1.2;
     color: #737d80;
@@ -1343,7 +1343,7 @@ html.mm-blocking {
 
 /* Home Title */
 .home-title {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 48px;
     font-weight: 400;
     line-height: 1em;
@@ -1359,7 +1359,7 @@ html.mm-blocking {
     font-size: 60px;
 }
 .home-subtitle {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 14px;
     font-weight: 400;
     line-height: 1.2em;   
@@ -1556,7 +1556,7 @@ html.mm-blocking {
 
 .home-title-1 {
     width: 100%;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 48px;
     font-weight: 400;
     line-height: 1.2em;
@@ -1673,7 +1673,7 @@ html.mm-blocking {
     vertical-align: middle;
 }
 .head-title-1 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 30px;
     line-height: 1.2;
     font-weight: 400;
@@ -2577,13 +2577,13 @@ a.btn-lightgray.btn-border {
 
 /* Counter */
 .counter-no {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 60px;
     font-weight: 400;
     line-height: 1;
 }
 .counter-title {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 14px;
     font-weight: 400;
     line-height: 1;
@@ -2751,7 +2751,7 @@ a.btn-lightgray.btn-border {
     word-wrap: break-word;
 }
 .textwidget-number {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 180px;
     line-height: 1;
     color: #8a6632;
@@ -2785,7 +2785,7 @@ a.btn-lightgray.btn-border {
     padding: 20px;
 }
 .textwidget-number-1 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 180px;
     line-height: 1;
     letter-spacing: -.04em;
@@ -2871,7 +2871,7 @@ a.btn-lightgray.btn-border {
     opacity: .7;
 }
 .textwidget-text-3 h5 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 10px;
     letter-spacing: .2em;
     text-transform: uppercase;
@@ -3214,7 +3214,7 @@ a.link-tb {
     line-height: 1;
 }
 .team-call-action-text {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 24px;
     font-weight: 400;
     line-height: 36px;
@@ -3341,7 +3341,7 @@ a.link-tb {
 }
 .team-cl .team-name,
 .team-cl-3 .team-name {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 18px;
     font-weight: 700;
     line-height: 1.2;
@@ -3416,7 +3416,7 @@ a.link-tb {
     border-radius: 100%;
     top: 50%;
     left: 50%;
-    font-family: 'ElegantIcons';
+    font-family: 'Calibri Light';
     font-size: 24px;
     line-height: 36px;
     content: "\4C";
@@ -3532,7 +3532,7 @@ a.link-tb {
     right: 40px;
 }
 .gallery-button:after {
-    font-family: 'ElegantIcons';
+    font-family: 'Calibri Light';
     font-size: 24px;
     line-height: 36px;
     content: "\4C";
@@ -3541,7 +3541,7 @@ a.link-tb {
 }
 .video-button:after,
 .video-button-home:after {
-    font-family: 'ElegantIcons';
+    font-family: 'Calibri Light';
     font-size: 24px;
     line-height: 36px;
     content: "\45";
@@ -3611,7 +3611,7 @@ a.mp {
     transition: all 0.3s cubic-bezier(0.0, 0.0, 0.3, 1.0);
 }
 .portfolio .item .description > h2 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 18px;
     font-weight: 400;
     line-height: 1.2;
@@ -3722,7 +3722,7 @@ a.mp {
 .filters {
     width: auto;
     margin-bottom: 15px;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-weight: 400;
     display: block;
 }
@@ -3747,7 +3747,7 @@ a.mp {
 /* Single Project */
 .project-details {
     position: relative;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     text-align: right;
 }
 .project-details p {
@@ -3853,7 +3853,7 @@ a.mp {
     text-decoration: none;
 }
 .post-list .post-date {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 12px;
     line-height: 1.2;
     color: #737d80;
@@ -3869,7 +3869,7 @@ a.mp {
     position: absolute;
     right: -40px;
     bottom: 0;
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 500px;
     line-height: .65;
     letter-spacing: -.04em;
@@ -4555,7 +4555,7 @@ footer {
     background-color: #212526;
 }
 .footer-title {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Calibri Light';
     font-size: 18px;
     line-height: 1.2;
     color: #fff;

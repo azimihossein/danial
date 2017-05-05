@@ -1138,7 +1138,7 @@ you can use the generic selector below, but it's slower:
 	padding-bottom: 10px;
 }
 .glyph input {
-	font-family: consolas, monospace;
+	font-family: 'Calibri Light';
 	font-size: 12px;
 	width: 100%;
 	text-align: center;
