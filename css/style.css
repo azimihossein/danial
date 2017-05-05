@@ -4686,3 +4686,6 @@ footer #insta li img {
         width: 98%;   
     }
 }
+body{
+    direction: rtl;
+}
